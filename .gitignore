@@ -1,0 +1,5 @@
+__pycache__
+capra_opi/converted/*
+capra_opi/cache.npy
+capra_opi/samples/*
+.vscode
