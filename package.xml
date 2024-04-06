@@ -3,9 +3,9 @@
 <package format="3">
   <name>capra_opi</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="jocobc@todo.todo">jocobc</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Manages the detection of Objects of Potential Interest (OPI) found as ERICard.</description>
+  <maintainer email="capra@ens.etsmtl.ca">Capra</maintainer>
+  <license>GPLv3</license>
 
   <build_depend>rclpy</build_depend>
   <build_depend>sensor_msgs</build_depend>
